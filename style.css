@@ -1,7 +1,6 @@
 .body{
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
-    
+    margin-top: 30%;
+    background-color: #2b2a33;
 
 }
 .tarjeta{
@@ -172,4 +171,21 @@
 .abuelos{
   width: 100%;
   height: 100%;
+}
+
+
+.bontonVolver{
+        margin-top: 50px;
+        background-color: red;
+        border-radius: 0%;
+        border:none;
+        padding: 10px;
+        width: 150px;
+        color: white;
+        box-shadow: 2px 2px 15px 0 black;
+}
+
+.bontonVolver:hover{
+        background-color: aliceblue;
+        color: black;
 }

@@ -8,3 +8,10 @@ function Tarjeta(){
     
 }
 
+function volver(){
+    document.getElementById("tarjet").style.display="block"
+    document.getElementById("img1").style.display="block"
+    document.getElementById("carta").style.display="none"
+    document.getElementById("titlee").style.display="block"
+}
+
